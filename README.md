@@ -14,7 +14,7 @@ The objective is to efficiently classify 43 distinct traffic sign classes, prior
 -Department of Computer Science.
 -Course: Selected Topics in Computer Science (CoSc4132)
 
- participant Name..................................ID-No
+ paticipant Name..................................ID-No
 
 1,Hailye H/Giworgis..............................dbue/0746/13
 2,Adamu Abebaw...................................dbue/0701/13
